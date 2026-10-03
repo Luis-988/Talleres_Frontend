@@ -90,6 +90,8 @@ h1 em {
 }
 
 .button {
+  align-items: center;      
+  justify-content: center;  
   background: #ffd83d;
   border: 3px solid #101010;
   border-radius: 0.7rem;
@@ -113,6 +115,7 @@ h1 em {
 
 .button span {
   font-size: 1.2rem;
+  line-height: 1;           
 }
 
 .courses {
