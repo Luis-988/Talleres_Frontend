@@ -1,0 +1,19 @@
+.footer {
+  align-items: center;
+  background: #101010;
+  color: #777;
+  display: flex;
+  justify-content: center;
+  min-height: 3.5rem;
+  padding: 0.8rem 1rem;
+  text-align: center;
+}
+
+.footer small {
+  font-family: Georgia, serif;
+  font-size: 0.7rem;
+}
+
+.footer span {
+  color: #f04462;
+}
